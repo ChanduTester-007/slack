@@ -3,3 +3,4 @@ slack-sdk
 flask
 uvicorn
 fastapi
+python-dotenv
