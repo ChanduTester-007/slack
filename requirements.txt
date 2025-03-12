@@ -1,3 +1,4 @@
  requests
 slack-sdk
 flask
+uvicorn
